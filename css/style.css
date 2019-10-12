@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Turret+Road&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Turret+Road&display=swap');
+
+/* General code*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #06214b;
+}
+/* secondary code*/
+
+.general{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+}
+
+.ecran{
+    margin: auto;
+    padding: 10px;
+    position: relative;
+    top: -65px;
+    min-height: 10vh;
+    background-color: #0e0e0e;
+    width: 50vh;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: end;
+    /*font-family: 'Turret Road', cursive;*/
+    font-family: 'Major Mono Display', monospace;
+}
+
+.touches{
+    justify-content: center;
+    padding: 30px;
+    margin-top: 50px; 
+    border-radius: 5px;
+    background-color: #fff;
+    min-height: 50vh;
+    width: 70vh;
+}
+
+.reunitialiser{
+    background-color: #f8a402;
+}
+
+.isole{
+    color: #06214b;
+    background-color: #cfcfcf;
+}
+
+.egalite{
+    background-color: #04434b;
+    color: #fff;
+}
+
+#tap button{
+    margin: 10px;
+    width: 73px;
+    height: 73px;
+    border: none;
+    border-radius: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#tap button:focus{
+    outline: none;
+}
+
+
+/* code header */
+
+
+/* Section 1 */
+
+
+/* section 2*/
+
+
+/* section 3*/
+
+
+/* section 4*/
+
+
+/*more*/
+
+
+/* footer */
+
